@@ -16,7 +16,7 @@ Gender bias, racial bias and age bias are types of stereotypical bias commonly n
 To get started with the tutorial paper and accompanying code, follow these simple steps:
 
 1. Clone this repository to your local machine.
-2. Read through the report (Report.pdf) provided in the root directory to gain a deeper understanding of text summarization techniques.
+2. Read through the report `Report.pdf` provided in the root directory to gain a deeper understanding of text summarization techniques.
 3. Navigate to the `Bias_v5.ipynb` folder to access the implementation examples. Experiment with the code, modify parameters, and try out different datasets to reinforce your learning.
 
 
